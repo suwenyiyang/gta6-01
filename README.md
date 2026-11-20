@@ -81,6 +81,36 @@ Change `seed=N` to rebuild the same scene in a different Solmar.
 
 MIT — see [LICENSE](LICENSE).
 
+## About this entry
+
+SOLMAR is a 2D top-down open-world crime game, built from scratch for the make.fun GTA 6 bounty: one hand-built coastal city, four story missions, car theft, a wanted system with police chases, on-foot combat, a live minimap, and autosave. The four screenshots in `screenshots/` are real renders of the game itself, staged deterministically at seed 1 — the title screen (`1-start.jpg`), driving a delivery (`2-drive.jpg`), shaking a police tail (`3-chase.jpg`), and walking in on the first job (`4-mission.jpg`).
+
+Play it live: https://suwenyiyang.github.io/gta6-01/game/ — no install, no account, just open it in a desktop browser.
+
+## How to Play
+
+You are Mara Quinn, a getaway driver working off a debt over four nights. Each night is one job — finish it, get paid, and the next briefing unlocks.
+
+### Controls
+
+- **W / A / S / D or arrow keys** — move on foot, drive in a car
+- **E** — enter / exit the nearest car (steal any car you find)
+- **Space** — handbrake
+- **Mouse + click** — aim and fire the pistol (on foot)
+- **F** — punch, **R** — reload
+- **Esc** — pause, **M** — mute
+
+### The four jobs
+
+1. **Salt Air — $350 (on foot).** Meet Nessa at the marina steps.
+2. **Hot Cargo — $650 (drive).** Deliver the gold coupe to the arcade lot.
+3. **Bad Radio — $900 (drive).** Reach the radio tower and shake the tail.
+4. **Clean Tide — $1,300 (drive).** Bring the payment to the north pier.
+
+### Wanted level
+
+Causing trouble raises your heat: stealing a car, hitting pedestrians, crashing, or firing your weapon. The HUD shows up to five wanted stars — the higher the heat, the more police cruisers spawn and the faster they arrive. Lay low and stay out of trouble and the stars drop one at a time. Lose the tail before you reach the objective, or the job gets a lot harder.
+
 ---
 
 Built for the make.fun bounty: https://make.fun/bounty/gta6-01 — referral code `3mmef68q`.
